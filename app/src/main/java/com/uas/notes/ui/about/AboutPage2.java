@@ -1,6 +1,6 @@
 /**
- * NIM : 10120046
- * NAMA : Andriansyah
+ * NIM : 10120070
+ * NAMA : Fikri Adam Pratama Sutanto
  * KELAS : IF-2
  */
 package com.uas.notes.ui.about;
